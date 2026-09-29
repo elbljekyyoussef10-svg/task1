@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(29, 11, 46);
+     color: aliceblue;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(125, 67, 179);
+    font-size: xx-large;
+    height: 50px;
+}
+
+fieldset{
+  color: blueviolet;
+}
+
+#click{
+    border-style:groove;
+    width: 50px;
+    color: rgb(247, 241, 241);
+    background-color: black;
+}
